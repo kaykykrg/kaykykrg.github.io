@@ -8,7 +8,7 @@ my first page is my portfolio :)
 ### 💻 Sobre Mim
 
 Estudante de Engenharia de Software com experiência em suporte de TI e sólida base técnica em Python,
-C, SQL, HTML, CSS e metodologias ágeis (Scrum). Destaco-me pela disciplina, proatividade e capacidade
+C, SQL, HTML, CSS, Git & Github e metodologias ágeis (Scrum). Destaco-me pela disciplina, proatividade e capacidade
 analítica, habilidades fortalecidas durante atuação no Exército Brasileiro. Busco oportunidades para aplicar
 meus conhecimentos no desenvolvimento de software e resolução de problemas tecnológicos.
 
